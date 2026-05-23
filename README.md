@@ -19,4 +19,4 @@ This repository contains beginner-friendly website projects and practice files t
 
 
 ## ⛶ Screnshots
-<img width="1280" height="612" alt="image" src="https://github.com/user-attachments/assets/a0c92ec2-4ee8-4b8d-90b7-d24cd2cb5f5e" />
+<img width="1280" height="612" alt="image" src="https://github.com/misbahqadri/first_website/blob/main/outputImg.jpeg" />
